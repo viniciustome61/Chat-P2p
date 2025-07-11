@@ -1,4 +1,3 @@
-# auth_utils.py (Versão Corrigida)
 import hashlib
 
 saltSenha = "Universidade de Brasilia"
