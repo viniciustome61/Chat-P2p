@@ -1,4 +1,3 @@
-# tracker.py (Versão com Debug)
 import socket
 import json
 import threading
